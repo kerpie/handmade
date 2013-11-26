@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HECHO A MANO</string>
+    <string name="call_to_action">Descubre lo que encontrarás en el evento, deslizando la pantalla de derecha a izquierda</string>
+    <string name="remaining_time">Nos vemos en el evento en:</string>
+    <string name="content_description_for_image">No content</string>
+    <string name="days">Días</string>
+    <string name="hours">Horas</string>
+    <string name="minutes">Min</string>
+    <string name="seconds">Seg</string>
+    <string name="text_for_image_1">Candelabros</string>
+    <string name="text_for_image_2">Artesanía</string>
+    <string name="text_for_image_3">Miscelánea</string>
+    <string name="text_for_image_4">Lamparas</string>
+    <string name="text_for_image_5">Jarrones</string>
+    <string name="text_for_image_6">Adornos</string>
+    <string name="startButton">Vamos al evento!</string>
+    <string name="title_activity_new_main">NewMainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
